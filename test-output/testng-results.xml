@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-30T16:28:54 IST" name="Suite" finished-at="2022-10-30T16:29:14 IST" duration-ms="19281">
+    <groups>
+    </groups>
+    <test started-at="2022-10-30T16:28:54 IST" name="Test" finished-at="2022-10-30T16:29:14 IST" duration-ms="19281">
+      <class name="Com.SauceDemo.TestClasses.TC_02_Select_Single_Product">
+        <test-method is-config="true" signature="browserOpen()[pri:0, instance:Com.SauceDemo.TestClasses.TC_02_Select_Single_Product@24fcf36f]" started-at="2022-10-30T16:28:55 IST" name="browserOpen" finished-at="2022-10-30T16:29:00 IST" duration-ms="4986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserOpen -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Com.SauceDemo.TestClasses.TC_02_Select_Single_Product@24fcf36f]" started-at="2022-10-30T16:29:00 IST" name="setUp" finished-at="2022-10-30T16:29:05 IST" duration-ms="5852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="logoutfunctionality()[pri:0, instance:Com.SauceDemo.TestClasses.TC_02_Select_Single_Product@24fcf36f]" started-at="2022-10-30T16:29:05 IST" name="logoutfunctionality" finished-at="2022-10-30T16:29:06 IST" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutfunctionality -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:Com.SauceDemo.TestClasses.TC_02_Select_Single_Product@24fcf36f]" started-at="2022-10-30T16:29:06 IST" name="logout" finished-at="2022-10-30T16:29:08 IST" duration-ms="2757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:Com.SauceDemo.TestClasses.TC_02_Select_Single_Product@24fcf36f]" started-at="2022-10-30T16:29:08 IST" name="browserClose" finished-at="2022-10-30T16:29:09 IST" duration-ms="744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- Com.SauceDemo.TestClasses.TC_02_Select_Single_Product -->
+      <class name="Com.SauceDemo.TestClasses.TC_01_login_functionality">
+        <test-method is-config="true" signature="browserOpen()[pri:0, instance:Com.SauceDemo.TestClasses.TC_01_login_functionality@14555e0a]" started-at="2022-10-30T16:28:55 IST" name="browserOpen" finished-at="2022-10-30T16:28:59 IST" duration-ms="4377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserOpen -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Com.SauceDemo.TestClasses.TC_01_login_functionality@14555e0a]" started-at="2022-10-30T16:28:59 IST" name="setUp" finished-at="2022-10-30T16:29:05 IST" duration-ms="5676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="setUP()[pri:0, instance:Com.SauceDemo.TestClasses.TC_01_login_functionality@14555e0a]" started-at="2022-10-30T16:29:05 IST" name="setUP" finished-at="2022-10-30T16:29:05 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:Com.SauceDemo.TestClasses.TC_01_login_functionality@14555e0a]" started-at="2022-10-30T16:29:05 IST" name="logout" finished-at="2022-10-30T16:29:07 IST" duration-ms="2795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:Com.SauceDemo.TestClasses.TC_01_login_functionality@14555e0a]" started-at="2022-10-30T16:29:07 IST" name="browserClose" finished-at="2022-10-30T16:29:08 IST" duration-ms="332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- Com.SauceDemo.TestClasses.TC_01_login_functionality -->
+      <class name="Com.SauceDemo.TestClasses.TC_03_AddMultipleProduct">
+        <test-method is-config="true" signature="browserOpen()[pri:0, instance:Com.SauceDemo.TestClasses.TC_03_AddMultipleProduct@4bb33f74]" started-at="2022-10-30T16:28:55 IST" name="browserOpen" finished-at="2022-10-30T16:29:00 IST" duration-ms="5239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserOpen -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Com.SauceDemo.TestClasses.TC_03_AddMultipleProduct@4bb33f74]" started-at="2022-10-30T16:29:00 IST" name="setUp" finished-at="2022-10-30T16:29:06 IST" duration-ms="6063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addAllproduct()[pri:0, instance:Com.SauceDemo.TestClasses.TC_03_AddMultipleProduct@4bb33f74]" started-at="2022-10-30T16:29:06 IST" name="addAllproduct" finished-at="2022-10-30T16:29:11 IST" duration-ms="5268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAllproduct -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:Com.SauceDemo.TestClasses.TC_03_AddMultipleProduct@4bb33f74]" started-at="2022-10-30T16:29:11 IST" name="logout" finished-at="2022-10-30T16:29:14 IST" duration-ms="2550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:Com.SauceDemo.TestClasses.TC_03_AddMultipleProduct@4bb33f74]" started-at="2022-10-30T16:29:14 IST" name="browserClose" finished-at="2022-10-30T16:29:14 IST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- Com.SauceDemo.TestClasses.TC_03_AddMultipleProduct -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

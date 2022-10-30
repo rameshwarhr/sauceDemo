@@ -1,0 +1,79 @@
+2022-10-30 16:06:45,521  INFO [main] ram:32 - maximize the browser
+2022-10-30 16:06:46,171  INFO [main] ram:35 - enter url
+2022-10-30 16:06:47,669  INFO [main] ram:47 - send Username
+2022-10-30 16:06:48,962  INFO [main] ram:52 - enter password
+2022-10-30 16:06:55,447  INFO [main] ram:32 - maximize the browser
+2022-10-30 16:06:56,090  INFO [main] ram:35 - enter url
+2022-10-30 16:06:57,479  INFO [main] ram:47 - send Username
+2022-10-30 16:06:58,744  INFO [main] ram:52 - enter password
+2022-10-30 16:07:15,443  INFO [main] ram:32 - maximize the browser
+2022-10-30 16:07:16,108  INFO [main] ram:35 - enter url
+2022-10-30 16:07:17,524  INFO [main] ram:47 - send Username
+2022-10-30 16:07:18,768  INFO [main] ram:52 - enter password
+2022-10-30 16:07:25,168  INFO [main] ram:32 - maximize the browser
+2022-10-30 16:07:25,735  INFO [main] ram:35 - enter url
+2022-10-30 16:07:27,126  INFO [main] ram:47 - send Username
+2022-10-30 16:07:28,399  INFO [main] ram:52 - enter password
+2022-10-30 16:25:35,977  INFO [main] sauce:32 - maximize the browser
+2022-10-30 16:25:37,343  INFO [main] sauce:35 - url enterd
+2022-10-30 16:25:38,926  INFO [main] sauce:47 - entered userName
+2022-10-30 16:25:40,214  INFO [main] sauce:52 - entered password
+2022-10-30 16:25:41,519  INFO [main] sauce:57 - clickd on login button
+2022-10-30 16:25:42,798  INFO [main] sauce:23 - validation checked
+2022-10-30 16:25:43,878  INFO [main] sauce:69 - clicked on menu button
+2022-10-30 16:25:45,288  INFO [main] sauce:74 - clicked on logout button
+2022-10-30 16:25:45,588  INFO [main] sauce:81 - browser is closed
+2022-10-30 16:27:19,997  INFO [main] sauce:32 - maximize the browser
+2022-10-30 16:27:20,547  INFO [main] sauce:35 - url enterd
+2022-10-30 16:27:22,065  INFO [main] sauce:47 - entered userName
+2022-10-30 16:27:23,384  INFO [main] sauce:52 - entered password
+2022-10-30 16:27:24,701  INFO [main] sauce:57 - clickd on login button
+2022-10-30 16:27:26,101  INFO [main] sauce:14 - clicked on Bag and product is selected
+2022-10-30 16:27:27,177  INFO [main] sauce:69 - clicked on menu button
+2022-10-30 16:27:28,555  INFO [main] sauce:74 - clicked on logout button
+2022-10-30 16:27:28,829  INFO [main] sauce:81 - browser is closed
+2022-10-30 16:27:29,843  INFO [main] sauce:32 - maximize the browser
+2022-10-30 16:27:30,453  INFO [main] sauce:35 - url enterd
+2022-10-30 16:27:31,816  INFO [main] sauce:47 - entered userName
+2022-10-30 16:27:33,063  INFO [main] sauce:52 - entered password
+2022-10-30 16:27:34,392  INFO [main] sauce:57 - clickd on login button
+2022-10-30 16:27:35,648  INFO [main] sauce:23 - validation checked
+2022-10-30 16:27:36,709  INFO [main] sauce:69 - clicked on menu button
+2022-10-30 16:27:38,070  INFO [main] sauce:74 - clicked on logout button
+2022-10-30 16:27:54,435  INFO [main] sauce:81 - browser is closed
+2022-10-30 16:27:58,254  INFO [main] sauce:32 - maximize the browser
+2022-10-30 16:27:59,257  INFO [main] sauce:35 - url enterd
+2022-10-30 16:28:01,288  INFO [main] sauce:47 - entered userName
+2022-10-30 16:28:02,786  INFO [main] sauce:52 - entered password
+2022-10-30 16:28:04,447  INFO [main] sauce:57 - clickd on login button
+2022-10-30 16:28:11,293  INFO [main] sauce:29 - all product is selected
+2022-10-30 16:28:12,404  INFO [main] sauce:69 - clicked on menu button
+2022-10-30 16:28:13,720  INFO [main] sauce:74 - clicked on logout button
+2022-10-30 16:28:14,100  INFO [main] sauce:81 - browser is closed
+2022-10-30 16:28:58,302  INFO [TestNG-test=Test-2] sauce:32 - maximize the browser
+2022-10-30 16:28:58,733  INFO [TestNG-test=Test-1] sauce:32 - maximize the browser
+2022-10-30 16:28:59,048  INFO [TestNG-test=Test-3] sauce:32 - maximize the browser
+2022-10-30 16:28:59,139  INFO [TestNG-test=Test-2] sauce:35 - url enterd
+2022-10-30 16:28:59,753  INFO [TestNG-test=Test-1] sauce:35 - url enterd
+2022-10-30 16:29:00,054  INFO [TestNG-test=Test-3] sauce:35 - url enterd
+2022-10-30 16:29:00,851  INFO [TestNG-test=Test-2] sauce:47 - entered userName
+2022-10-30 16:29:01,439  INFO [TestNG-test=Test-1] sauce:47 - entered userName
+2022-10-30 16:29:01,640  INFO [TestNG-test=Test-3] sauce:47 - entered userName
+2022-10-30 16:29:02,164  INFO [TestNG-test=Test-2] sauce:52 - entered password
+2022-10-30 16:29:02,927  INFO [TestNG-test=Test-1] sauce:52 - entered password
+2022-10-30 16:29:03,109  INFO [TestNG-test=Test-3] sauce:52 - entered password
+2022-10-30 16:29:03,670  INFO [TestNG-test=Test-2] sauce:57 - clickd on login button
+2022-10-30 16:29:04,465  INFO [TestNG-test=Test-1] sauce:57 - clickd on login button
+2022-10-30 16:29:04,921  INFO [TestNG-test=Test-3] sauce:57 - clickd on login button
+2022-10-30 16:29:05,153  INFO [TestNG-test=Test-2] sauce:23 - validation checked
+2022-10-30 16:29:06,045  INFO [TestNG-test=Test-1] sauce:14 - clicked on Bag and product is selected
+2022-10-30 16:29:06,283  INFO [TestNG-test=Test-2] sauce:69 - clicked on menu button
+2022-10-30 16:29:07,141  INFO [TestNG-test=Test-1] sauce:69 - clicked on menu button
+2022-10-30 16:29:07,781  INFO [TestNG-test=Test-2] sauce:74 - clicked on logout button
+2022-10-30 16:29:08,292  INFO [TestNG-test=Test-2] sauce:81 - browser is closed
+2022-10-30 16:29:08,632  INFO [TestNG-test=Test-1] sauce:74 - clicked on logout button
+2022-10-30 16:29:09,548  INFO [TestNG-test=Test-1] sauce:81 - browser is closed
+2022-10-30 16:29:11,587  INFO [TestNG-test=Test-3] sauce:29 - all product is selected
+2022-10-30 16:29:12,647  INFO [TestNG-test=Test-3] sauce:69 - clicked on menu button
+2022-10-30 16:29:13,925  INFO [TestNG-test=Test-3] sauce:74 - clicked on logout button
+2022-10-30 16:29:14,268  INFO [TestNG-test=Test-3] sauce:81 - browser is closed
