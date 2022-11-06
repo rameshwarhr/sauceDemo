@@ -10,10 +10,16 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.io.FileHandler;
+import org.openqa.selenium.support.PageFactory;
 
 public class screenShotClass
 {
-	//static WebDriver driver;
+	static WebDriver driver;
+	public screenShotClass(WebDriver driver)
+	{
+		this.driver=driver;
+		PageFactory.initElements( driver, this);
+	}
 	public static void screenshot(WebDriver driver) throws IOException
 	{
 		Date d=new Date();
